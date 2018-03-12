@@ -4,4 +4,6 @@ module.exports = {
     googleClientSecret: 'cQ5DG4qazEtv_BED0bywzXwy',
     mongoURI: 'mongodb://localhost/feedback-loop',
     cookieKey: 'cookie',
+    stripePublishableKey: 'pk_test_bpGTQbVfAgl4gkE4iwACYXsw',
+    stripeSecretKey: 'sk_test_QTzPk1LdcJ6ENkPWgRy0oqtH'
   };
